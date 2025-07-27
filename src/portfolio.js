@@ -7,7 +7,7 @@ const about = {
   name: 'Himanshu Kumar',
   role: 'B.Tech CSE - AI & DS Student',
   description:
-    'Enthusiastic and driven student with a solid foundation in programming, software development, and data structures. Proficient in Java, Python, and modern web development technologies. Passionate about Artificial Intelligence, Web Development, and Data Analytics, with a strong commitment to continuous learning and innovation.',
+    'A passionate Computer Science student with a strong foundation in Java, Python, and full-stack web development. Experienced in building responsive websites and solving real-world problems through clean, efficient code. Enthusiastic about Artificial Intelligence, Data Analytics, and creating impactful digital experiences.',
   resume: '/Himanshu.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/himanshu-kumar-160b87255',
