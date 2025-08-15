@@ -8,7 +8,7 @@ const about = {
   role: 'B.Tech CSE - AI & DS Student',
   description:
     'A passionate Computer Science student with a strong foundation in Java, Python, and full-stack web development. Experienced in building responsive websites and solving real-world problems through clean, efficient code. Enthusiastic about Artificial Intelligence, Data Analytics, and creating impactful digital experiences.',
-  resume: '/Himanshu.pdf',
+  resume: '/Himanshu_kumar(2201321630021).pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/himanshu-kumar-160b87255',
     github: 'https://github.com/HimanshuKumar21',
@@ -46,3 +46,4 @@ const contact = {
 }
 
 export { header, about, projects, skills, contact }
+
